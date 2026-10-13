@@ -1,0 +1,2 @@
+export const business = {"phone":"082 954 1863","location":"220 Nokeri St, Soweto","palette":["#342c48","#e8a361","#f5f0e8"],"sub":"A bright, expressive concept for creative arts and events in Soweto.","archetype":"Editorial","title":"Make room for the moment.","industry":"Creative arts, events","photo":"https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1800&q=85","email":"","name":"Absolute Soweto"};
+
